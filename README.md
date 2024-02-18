@@ -1,7 +1,12 @@
-# Hi there :raised_hand:
-About me:
-Soon to have a master’s degree in Electronic Systems Design and Innovation, with a specialization in embedded system.
+# Hi there :raised_hand:, im Tor
+Most of my projects contain PCB design, 3D modeling, prototyping of mechanical part and software development. I usually use tolls like 3D printer, laser cutter, and lathe, along with other hand tools to make my projects come true.
 
-I was first introduced to PCB design and microchip programming. I have since then made over a dozen PCBs in Altium Designer and I have also written software for most of them. In the last tree years I have gained more interest in 3D modeling and prototyping. With the assistance of tools such as a 3D printer, laser cutter, and lathe, along with hand tools, many of my projects over the past year feature custom 3D designed parts and mechanical components that I have created. 
+### 🖥 Skills
 
-In my current project i am designing my own CNC milling machine. 
+- PCB design
+- 3D-printing
+- Laser cutting
+- software development (mostly python and C)
+
+### :hammer: Current project
+In my current project i am designing and building my own CNC milling machine. I am almost done with the research phase and have already designed the z-gantry and some of the x-gantry in CAD. 
