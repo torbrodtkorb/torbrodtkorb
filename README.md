@@ -9,8 +9,9 @@ Most of my projects contain PCB design, 3D modeling, prototyping of mechanical p
 - software development (mostly python and C)
 
 ### :hammer: Current project
-In my current project i am designing and building my own CNC milling machine. I am almost done with the research phase and have already designed the z-gantry and some of the x-gantry in CAD. 
-
-<p align="center">
-  <img width="700" src="https://github.com/torbrodtkorb/torbrodtkorb/blob/master/graphics/cnc.png">
-</p>
+<div style="overflow: hidden;">
+  <img src="https://github.com/torbrodtkorb/torbrodtkorb/blob/master/graphics/cnc.png" style="float: right; width: 300px; margin-left: 20px;">
+  <p style="text-align: left;">
+    In my current project, I am designing and building my own CNC milling machine. I am almost done with the research phase and have already designed the z-gantry and some of the x-gantry in CAD.
+  </p>
+</div>
