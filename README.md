@@ -1,5 +1,5 @@
 
-# Hi there :raised_hand:, im Tor
+# Hi there :raised_hand:
 Most of my projects involve PCB design, 3D modeling, prototyping of mechanical parts, and software development. I typically utilize tools such as a 3D printer, laser cutter, and lathe, along with other hand tools, To bring my projects to life.
 
 ### :hammer: Current project
